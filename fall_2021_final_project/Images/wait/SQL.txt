@@ -1,0 +1,27 @@
+# SQL
+
+What MYSQL is
+
+Queries
+
+Increase in complexity
+
+Interelated data.
+
+Instagram DataBase Clone
+
+Queries
+
+select * from Customers
+
+select * from products ORDERBY Price
+
+customerName,
+COUNT(*) AS 'number of orders'
+From customers
+INNER JOIN orders
+ON orders.customerID = customers.customerID
+GROUP BY customers.customerID.
+
+
+ 
