@@ -44,8 +44,7 @@ Install my-project
 
 ![Reset](https://user-images.githubusercontent.com/65457905/156275267-7960d039-b6be-4f16-b196-13fd4f043c74.PNG)
 ![reset_smiley (1)](https://user-images.githubusercontent.com/65457905/156275268-10bfb46b-292a-4a50-8977-751109c6f9ff.png)
-![reset_smiley](https://user-images.githubusercontent.com/65457905/156275270-9e3d3b78-4e63-4b4b-a73a-562c8ff78a66.PNG)
-![Smiley](https://user-images.githubusercontent.com/65457905/156275272-d1b0bae3-97d8-4c11-a6d3-d27e64394384.PNG)
+![Smiley](https://user-images.githubusercontent.com/65457905/156275409-454dce9c-1a43-42fe-93d5-3c7d48313ed8.PNG)
 ![winner](https://user-images.githubusercontent.com/65457905/156275273-94f064db-9dc1-43b8-ba70-09666613e772.PNG)
 ![reset_luigi](https://user-images.githubusercontent.com/65457905/156275274-0fcfbe0a-ac4f-40a0-9e9f-5f0479765cfd.PNG)
 ![errors](https://user-images.githubusercontent.com/65457905/156275275-034371ba-8ca6-4ad8-9c2f-20c6155721c6.PNG)
