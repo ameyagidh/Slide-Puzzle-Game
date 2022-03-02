@@ -40,6 +40,14 @@ Install my-project
  3. Unzip the file "fall_2021_final_project".
  4. Run the file puzzle_game.py.
 
-Screenshots:-
+## Screenshots:-
 
-    
+![Reset](https://user-images.githubusercontent.com/65457905/156274865-d5b567e0-b668-4ae4-9998-703abf665d6d.PNG)
+![reset_luigi](https://user-images.githubusercontent.com/65457905/156274868-27e2229d-14ad-4995-8e5c-9c3f4ffdde90.PNG)
+![reset_smiley](https://user-images.githubusercontent.com/65457905/156274869-c3541820-a8d2-48d9-9028-3c5736896439.PNG)
+![Smiley](https://user-images.githubusercontent.com/65457905/156274871-d3e6546e-7415-4e83-9517-879f612f7a37.PNG)
+![Splash](https://user-images.githubusercontent.com/65457905/156274872-f5d6cf61-8dfc-4ac9-98be-60484f73009a.PNG)
+![winner](https://user-images.githubusercontent.com/65457905/156274873-ae2609f2-fa67-4d5f-97f4-5f8fe93646d9.PNG)
+![errors](https://user-images.githubusercontent.com/65457905/156274874-27a32a72-0692-4984-a260-7e83b8c9da3b.PNG)
+![Mario](https://user-images.githubusercontent.com/65457905/156274876-1bd9eab3-5f90-4211-af9e-1b0e0eb613ec.PNG)
+
