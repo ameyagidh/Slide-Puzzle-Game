@@ -31,10 +31,8 @@ The Reset button is a cheat which enables the user to get the puzzle to the righ
 
 There is a 5001_puzzle_err.txt file for appending the errors encountered during execution of the program
 ## Installation
-git clone https://github.com/ameyagidh/Slide-Puzzle-Game.git
-or download the zip file then 
-Unzip the file "fall_2021_final_project".
-Run the file puzzle_game.py.
+git clone https://github.com/ameyagidh/Slide-Puzzle-Game.git](https://github.com/ameyagidh/Slide-Puzzle-Game.git)
+or download the zip file and run Main.py
 
 ### Requirements:-
 
