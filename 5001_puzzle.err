@@ -1,0 +1,8 @@
+
+An error happened - invalid literal for int() with base 10: 'aa'
+An error happened - invalid literal for int() with base 10: 'aa'
+An error happened - invalid literal for int() with base 10: '1. Ameya'
+An error happened - invalid literal for int() with base 10: '1. Ameya'
+An error happened - bad color string: Slate
+An error happened - bad color string: Slate
+An error happened - int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
