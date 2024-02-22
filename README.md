@@ -31,7 +31,9 @@ The Reset button is a cheat which enables the user to get the puzzle to the righ
 
 There is a 5001_puzzle_err.txt file for appending the errors encountered during execution of the program
 ## Installation
-git clone https://github.com/ameyagidh/Slide-Puzzle-Game.git](https://github.com/ameyagidh/Slide-Puzzle-Game.git)
+
+git clone https://github.com/ameyagidh/Slide-Puzzle-Game.git](https://github.com/ameyagidh/Slide-Puzzle-Game.git
+
 or download the zip file and run Main.py
 
 ### Requirements:-
@@ -51,4 +53,6 @@ or download the zip file and run Main.py
 <img width="797" alt="Screenshot 2024-02-22 at 3 52 39 AM" src="https://github.com/ameyagidh/Slide-Puzzle-Game/assets/65457905/2874eb13-acb9-4d07-921f-fcf0e25f987f">
 <img width="794" alt="Screenshot 2024-02-22 at 3 56 43 AM" src="https://github.com/ameyagidh/Slide-Puzzle-Game/assets/65457905/3d375c13-b157-4572-9720-4cd0c4eb40cd">
 <img width="795" alt="Screenshot 2024-02-22 at 3 55 48 AM" src="https://github.com/ameyagidh/Slide-Puzzle-Game/assets/65457905/6c8f81a6-9c5e-4a41-9105-59043c87b41c">
+<img width="1496" alt="Screenshot 2024-02-22 at 4 08 00 AM" src="https://github.com/ameyagidh/Slide-Puzzle-Game/assets/65457905/3b8612a9-487d-4e3c-a02a-fce02cd4af57">
+<img width="1496" alt="Screenshot 2024-02-22 at 4 08 17 AM" src="https://github.com/ameyagidh/Slide-Puzzle-Game/assets/65457905/95703256-4ed4-449d-ab98-327f8655d87a">
 
