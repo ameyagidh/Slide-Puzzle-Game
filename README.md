@@ -48,8 +48,8 @@ or download the zip file and run Main.py
 <img width="789" alt="Screenshot 2024-02-22 at 3 54 15 AM" src="https://github.com/ameyagidh/Slide-Puzzle-Game/assets/65457905/c4ed6255-23b4-4275-a2c6-7686515f9140">
 <img width="794" alt="Screenshot 2024-02-22 at 3 53 52 AM" src="https://github.com/ameyagidh/Slide-Puzzle-Game/assets/65457905/13fc877c-2184-47b0-8716-96d0dfd151c5">
 <img width="796" alt="Screenshot 2024-02-22 at 3 53 25 AM" src="https://github.com/ameyagidh/Slide-Puzzle-Game/assets/65457905/9d499ec0-af99-4b46-a5a9-883aadb4e532">
-<img width="797" alt="Screenshot 2024-02-22 at 3 52 39 AM" src="https://github.com/ameyagidh/Slide-Puzzle-Game/assets/65457905/2874eb13-acb9-4d07-921f-fcf0e25f987f">
 <img width="800" alt="Screenshot 2024-02-22 at 3 54 48 AM" src="https://github.com/ameyagidh/Slide-Puzzle-Game/assets/65457905/3435b56e-c395-4098-b529-5c68822ab7a8">
-<img width="795" alt="Screenshot 2024-02-22 at 3 55 48 AM" src="https://github.com/ameyagidh/Slide-Puzzle-Game/assets/65457905/6c8f81a6-9c5e-4a41-9105-59043c87b41c">
+<img width="797" alt="Screenshot 2024-02-22 at 3 52 39 AM" src="https://github.com/ameyagidh/Slide-Puzzle-Game/assets/65457905/2874eb13-acb9-4d07-921f-fcf0e25f987f">
 <img width="794" alt="Screenshot 2024-02-22 at 3 56 43 AM" src="https://github.com/ameyagidh/Slide-Puzzle-Game/assets/65457905/3d375c13-b157-4572-9720-4cd0c4eb40cd">
+<img width="795" alt="Screenshot 2024-02-22 at 3 55 48 AM" src="https://github.com/ameyagidh/Slide-Puzzle-Game/assets/65457905/6c8f81a6-9c5e-4a41-9105-59043c87b41c">
 
